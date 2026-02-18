@@ -27,7 +27,7 @@ The command sudo setoolkit in the prompt gives menu with set prompt:
 <img width="602" height="327" alt="image" src="https://github.com/user-attachments/assets/a6ccd1cf-e439-4769-8d40-ca716c2b9f3d" />
 
 
-<img width="922" height="846" alt="image" src="https://github.com/user-attachments/assets/ec1d3215-4d43-4e84-9a8c-86409838840d" />
+
 
 
 The command sudo setoolkit in the prompt gives menu with set prompt. Select menu1 for Social Engineering Attacks:

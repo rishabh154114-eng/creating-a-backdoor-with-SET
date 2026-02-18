@@ -26,6 +26,9 @@ The command sudo setoolkit in the prompt gives menu with set prompt:
 
 <img width="602" height="327" alt="image" src="https://github.com/user-attachments/assets/a6ccd1cf-e439-4769-8d40-ca716c2b9f3d" />
 
+<img width="1600" height="868" alt="image" src="https://github.com/user-attachments/assets/12156330-6ffb-47b9-8fbd-5060426af210" />
+
+
 
 
 
@@ -77,7 +80,7 @@ In windows IE, on giving the url http://192.168.1.2 (use appropriate IP address)
 ![WhatsApp Image 2026-02-18 at 10 22 46](https://github.com/user-attachments/assets/d8547169-d2c5-4e9b-bad2-9e820d2833e1)
 
 
-<img width="930" height="554" alt="image" src="https://github.com/user-attachments/assets/1348b75e-9eaa-479b-a212-20cf9d264a3c" />
+<img width="1600" height="884" alt="image" src="https://github.com/user-attachments/assets/ce77ee08-21ab-45d1-9d47-6a9b921d4632" />
 
 
 SET logs the information in the xml file under /root/.set directory:
